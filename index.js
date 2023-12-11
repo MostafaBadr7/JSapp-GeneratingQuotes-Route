@@ -11,7 +11,7 @@ var quotesArr = [
     "\“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go...\”<br> <br> ― Dr. Seuss, Oh, the Places You'll Go!",
 ]
 
-var quoteButton = document.getElementById("quote");
+var quoteButton = document.getElementById("quote-button");
 var box = document.getElementById("box");
 var quoteShow = document.getElementById("quote-show");                      // Paragraph
 var prevQuote;                                                              // To save the previous quote index
